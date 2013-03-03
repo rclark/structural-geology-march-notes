@@ -1,0 +1,23 @@
+# proposal
+## include:
+- 3 years
+- 3 workshops for ductile, folds, migmatite (if not already funded with extra money)
+- Jason (Doug's programmer) and Ryan will be programming
+- community interactions
+    - pilot projects
+        - lightweight prototype by end of year 1
+        - populate database with real data for two field areas by end of year 2
+        - community field forum GSA for launch-party / buy-in end of year 3
+    - community field testing
+        - 20 or so people to each field area, explore data pilot areas
+    - interaction with sub-disciplines
+- technology
+    - database live in at KGS
+    - relational age something unique to strutural geology
+    - off-line data access / caching / upload
+    - linked open data
+    - service-oriented architecture
+    - front-end customizability
+    - backend extensibility (NoSQL or triple-store?)
+    - GSA as mechanism for long-term sustainability?
+    - interoperability with stereonet applications
